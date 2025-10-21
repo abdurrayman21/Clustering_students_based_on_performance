@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+plotly
+openai
+python-dotenv
+joblib
+fpdf
